@@ -31,3 +31,5 @@ git branch -M main (to rename the master branch into main)
 This one is in feature branch
 
 One commit
+
+Second commit
