@@ -4,6 +4,8 @@ git add remote ....
 
 git log --oneline
 
+git log --graph --oneline
+
 git revert 693c3a9
 
 git commit -am "heeeeeee"
@@ -23,3 +25,9 @@ git branch -a
 git branch -M main (to rename the master branch into main)
 
 ### ttt
+
+#####
+
+This one is in feature branch
+
+One commit
