@@ -20,4 +20,6 @@ git stash apply 0 (0 is the index under which it comes from the list above)
 
 git branch -a
 
+git branch -M main (to rename the master branch into main)
+
 ### ttt
